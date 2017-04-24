@@ -1,8 +1,10 @@
 Settings.vocabulary =
   vocabulary: [
+    "bacome",
     "org",
     "orgs",
     "ecat",
+    "evernote",
     "pragma",
     "nav",
     "mebane",
@@ -21,6 +23,7 @@ Settings.vocabulary =
 
 Settings.vocabulary =
   translations:
+    "so as": "psoas"
     "i've": "I've"
     "i'd": "I'd"
     "nelly": "nil"
@@ -61,6 +64,8 @@ Settings.vocabulary =
 
 Settings.insert =
   abbreviations:
+    "performance": "perf"
+    "document": "doc"
     "boolean": "bool"
     "organization": "org"
     "rectangle": "rect"

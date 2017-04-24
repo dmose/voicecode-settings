@@ -12,7 +12,8 @@ Package.command 'launch-xcode',
 
 apps =
   foxy: "Firefox"
-  nightly: "FirefoxNightly.app"
+  evernote: "Evernote.app"
+  nightly: "Nightly"
   turmit: "iTerm"
   skippy: "Skype"
   safari: "Safari"
